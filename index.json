@@ -6,11 +6,11 @@
       "versions":[
          {
             "Version":"1.0.0",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/datapack/example_entry/example_entry_1.0.0.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/datapack/example_entry/example_entry_1.0.0.zip?raw=true"
          },
          {
             "Version":"1.0.1",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/datapack/example_entry/example_entry_1.0.1.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/datapack/example_entry/example_entry_1.0.1.zip?raw=true"
          }
       ]
    },
@@ -21,11 +21,11 @@
       "versions":[
          {
             "Version":"1.0.0",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/kubejs/example_entry_two/example_entry_two_1.0.0.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/kubejs/example_entry_two/example_entry_two_1.0.0.zip?raw=true"
          },
          {
             "Version":"1.0.1",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/kubejs/example_entry_two/example_entry_two_1.0.1.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/kubejs/example_entry_two/example_entry_two_1.0.1.zip?raw=true"
          }
       ]
    },
@@ -36,11 +36,11 @@
       "versions":[
          {
             "Version":"1.0.0",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/resourcepack/example_entry_three/example_entry_three_1.0.0.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.0.0.zip?raw=true"
          },
          {
             "Version":"1.0.1",
-            "URL":"https://raw.githubusercontent.com/Avalon-MC/ContentSyncTestRepo/main/resourcepack/example_entry_three/example_entry_three_1.0.1.zip"
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.0.1.zip?raw=true"
          }
       ]
    }
