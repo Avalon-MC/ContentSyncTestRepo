@@ -7,3 +7,39 @@ the layout of the repo doesnt matter. what matters is the json file is setup cor
 
 ContentSync will use the Name and URL given for an entry, Look for a json file like this repo's index.json and find the entry with the same Name.
 These zips are not real datapacks/resourcepacks/script zips. just dummy files so i can test.
+
+
+
+Example ContentSync config.json that is used against this repo.
+Proper docs will be availible on ContentSync's repo once it is ready.
+```
+{
+  "IsConfigured": true,
+  "contentEntriesList": [
+    {
+      "Name": "example_entry",
+      "displayName": "An Example set as datapack",
+      "type": "datapack",
+      "URL": "https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/index.json?raw=true",
+      "targetVersion": "",
+      "installedVersion": "1.0.1"
+    },
+    {
+      "Name": "example_entry_two",
+      "displayName": "An Example 2 set as kubejs",
+      "type": "kubejs",
+      "URL": "https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/index.json?raw=true",
+      "targetVersion": "1.0.0",
+      "installedVersion": ""
+    },
+    {
+      "Name": "example_entry_three",
+      "displayName": "An Example 3 set as resourcepack",
+      "type": "resourcepack",
+      "URL": "https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/index.json?raw=true",
+      "targetVersion": "",
+      "installedVersion": ""
+    }
+  ]
+}
+```
