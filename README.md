@@ -2,7 +2,12 @@
 Dummy repo for testing ContentSync functionality
 
 
-the layout of the repo doesnt matter. what matters is the json file is setup correctly and the URL paths to the zip files are DIRECT LINKS
+the layout of the repo doesnt matter, what matters is:
+* the json file is setup correctly
+* the URL paths to the zip files are DIRECT LINKS
+* the datapack and resourcepack zips ARE VALID PACKS
+* the KubeJS zips contain a 'client_scripts', 'server_scripts' and/or 'startup_scripts' folder (all 3 or only 1 is valid, none is not)
+
 
 
 ContentSync will use the Name and URL given for an entry, Look for a json file like this repo's index.json and find the entry with the same Name.
@@ -29,7 +34,7 @@ Proper docs will be availible on ContentSync's repo once it is ready.
       "displayName": "An Example 2 set as kubejs",
       "type": "kubejs",
       "URL": "https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/index.json?raw=true",
-      "targetVersion": "1.0.0",
+      "targetVersion": "",
       "installedVersion": ""
     },
     {

@@ -11,6 +11,10 @@
          {
             "Version":"1.0.1",
             "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/datapack/example_entry/example_entry_1.0.1.zip?raw=true"
+         },
+         {
+            "Version":"1.0.2",
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/datapack/example_entry/example_entry_1.0.2.zip?raw=true"
          }
       ]
    },
@@ -41,6 +45,10 @@
          {
             "Version":"1.0.1",
             "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.0.1.zip?raw=true"
+         },
+         {
+            "Version":"1.0.2",
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.0.2.zip?raw=true"
          }
       ]
    }
