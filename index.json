@@ -1,7 +1,7 @@
 [
    {
       "name":"example_entry",
-      "displayName":"An Example set as datapack",
+      "displayName":"An Example Data Pack",
 	  "type":"datapack",
       "versions":[
          {
@@ -20,7 +20,7 @@
    },
    {
       "name":"example_entry_two",
-      "displayName":"An Example 2 set as kubejs",
+      "displayName":"An Example KubeJS Zip",
 	  "type":"kubejs",
       "versions":[
          {
@@ -35,7 +35,7 @@
    },
    {
       "name":"example_entry_three",
-      "displayName":"An Example 3 set as resourcepack",
+      "displayName":"An Example Resource Pack",
 	  "type":"resourcepack",
       "versions":[
          {
