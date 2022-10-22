@@ -30,6 +30,10 @@
          {
             "version":"1.0.1",
             "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/kubejs/example_entry_two/example_entry_two_1.0.1.zip?raw=true"
+         },
+         {
+            "version":"1.1.0",
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/kubejs/example_entry_two/example_entry_two_1.1.0.zip?raw=true"
          }
       ]
    },
@@ -49,6 +53,10 @@
          {
             "version":"1.0.2",
             "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.0.2.zip?raw=true"
+         },
+         {
+            "version":"1.1.0",
+            "URL":"https://github.com/Avalon-MC/ContentSyncTestRepo/blob/main/resoucepack/example_entry_three/example_entry_three_1.1.0.zip?raw=true"
          }
       ]
    }
